@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.example.demo.entity.Produit;
 import com.example.demo.service.ICrudService;
-
+// fares test
 @Service
 public class ProduitMockServiceImpl implements ICrudService<Produit, Long>{
 
